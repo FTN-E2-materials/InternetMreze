@@ -1,0 +1,4 @@
+podesavanje sifre je komanda:
+  enable password SIFRA
+enkripcija sifre je komanda:
+  service password-encryption
